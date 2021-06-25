@@ -1,4 +1,4 @@
-package projetoIntegracaoBack.model;
+package br.com.eletra.model;
 
 public enum Cronos {
 	CRONOS("CRONOS"),
