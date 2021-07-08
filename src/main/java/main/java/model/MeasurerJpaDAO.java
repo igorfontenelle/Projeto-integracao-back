@@ -1,12 +1,10 @@
-package br.com.eletra.dao;
+package main.java.model;
 
 import java.util.List;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
-
-import br.com.eletra.model.MeasurerModel;
 
 public class MeasurerJpaDAO {
 	private static MeasurerJpaDAO instance;

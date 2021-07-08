@@ -1,4 +1,4 @@
-package br.com.eletra.model;
+package main.java.model;
 
 import java.io.Serializable;
 
